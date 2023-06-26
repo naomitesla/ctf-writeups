@@ -1,5 +1,5 @@
 # ctf-writeups
-Writeups for interesting CTFs!
+Writeups for interesting CTFs! **c:**
 
 <br /><br />
 
@@ -8,5 +8,3 @@ Writeups for interesting CTFs!
 </p>
 
 <br />
-
-**c:**
