@@ -147,7 +147,7 @@ Great, we've identified the algorithms and methods used, discovered a pitfall, a
 </p>
 
 <p>
-    For a verbal description—each pass will XOR the next 16 byte segment with the current 16 byte segment and then it will encrypted with the random data.
+    For a verbal description—each pass will XOR the next 16 byte segment with the current 16 byte segment and then it will be encrypted with the random data.
 </p>
 
 <br />
