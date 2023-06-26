@@ -102,7 +102,7 @@ For now, lets move on:
     <img style="-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));" src="https://github.com/NaomiTesla/ctf-writeups/assets/110672478/88ae01c8-a07a-4cec-9479-5b40bb6675a1" alt="Algorithm" >
 </p>
 
-It appears we've stumbled across the cryptgraphic algorithm it's using! CBC, cipher block chaining, is the most popular block cipher model algorithms! Furthermore, it appears it's using a padding of 16 bytes c:
+It appears we've stumbled across the cryptgraphic algorithm it's using! CBC, cipher block chaining, is the most popular block cipher model algorithm! Furthermore, it appears it's using a padding of 16 bytes c:
 
 <br />
 
