@@ -100,13 +100,11 @@ For now, lets move on:
     <img style="-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));" src="https://github.com/NaomiTesla/ctf-writeups/assets/110672478/88ae01c8-a07a-4cec-9479-5b40bb6675a1" alt="Algorithm" >
 </p>
 
-It appears we've stumbled across the cryptgraphic algorithm it's using! CBC, cipher block chaining, is one of the more popular block cipher model algorithms!
-
-Furthermore, it appears they're using a padding of 16 bytes!
+It appears we've stumbled across the cryptgraphic algorithm it's using! CBC, cipher block chaining, is one of the more popular block cipher model algorithms! Furthermore, it appears they're using a padding of 16 bytes c:
 
 <br />
 
-It also appears they're using 16 bytes randomly for their IV, inialization vector, aand their cryptographic key.
+It also appears they're using 16 bytes randomly for their IV, inialization vector, and their cryptographic key.
 
 <p align="center">
     <img style="-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));" src="https://github.com/NaomiTesla/ctf-writeups/assets/110672478/43098082-f15d-4617-9418-227bc1fa418f" alt="Key and IV size" >
