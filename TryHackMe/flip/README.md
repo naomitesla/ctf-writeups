@@ -254,15 +254,16 @@ We'll be decrementing our `0x62` hex value for 'b' to get our hex value for 'a' 
 
 <br /><br />
 
-<p style="font-weight: 900; font-size: 30px" align="center">
+<h1 align="center">
     YAYYY!
-</p>
+</h1>
 
 <br /><br />
 
-<div style="text-align: center" markdown="1">
-    Now, finally, we replace our first hex value ```0x0b``` with our output of ```0x08``` and........
-</div>
+<p align="center">
+    Now, finally, we replace our first hex value 0x0b with our output of 0x08 and........
+</p>
+
 <br />
 
 <p align="center">
@@ -271,8 +272,8 @@ We'll be decrementing our `0x62` hex value for 'b' to get our hex value for 'a' 
 
 <br /><br />
 
-<p style="font-weight: 900; font-size: 30px" align="center">
+<h1 align="center">
     CONGRATULATIONS!
-</p>
+</h1>
 
 <br /><br />
