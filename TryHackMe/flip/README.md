@@ -114,7 +114,7 @@ It also appears it's using 16 bytes randomly assigned for the IV, inialization v
 
 <br />
 
-It appears we've also identified how it's formatting their plaintext message! That'll be great for future use!
+It appears we've also identified how it's formatting it's plaintext message! That'll be great for future use!
 
 <p align="center">
     <img style="-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));" src="https://github.com/NaomiTesla/ctf-writeups/assets/110672478/9a4b9708-d451-4198-a42f-fd26d65fd192" alt="Plaintext Format" >
