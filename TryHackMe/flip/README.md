@@ -249,7 +249,7 @@ We'll be decrementing our `0x62` hex value for 'b' to get our hex value for 'a' 
 </p>
 
 ```
-0x69 ⊕ 0x61 ⇒ 0x08
+0x69 ⊕ 0x61 ≡ 0x08
 ```
 
 <br /><br />
