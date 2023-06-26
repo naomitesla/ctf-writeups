@@ -102,7 +102,7 @@ For now, lets move on:
     <img style="-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));" src="https://github.com/NaomiTesla/ctf-writeups/assets/110672478/88ae01c8-a07a-4cec-9479-5b40bb6675a1" alt="Algorithm" >
 </p>
 
-It appears we've stumbled across the cryptgraphic algorithm it's using! CBC, cipher block chaining, is one of the more popular block cipher model algorithms! Furthermore, it appears it's using a padding of 16 bytes c:
+It appears we've stumbled across the cryptgraphic algorithm it's using! CBC, cipher block chaining, is the most popular block cipher model algorithms! Furthermore, it appears it's using a padding of 16 bytes c:
 
 <br />
 
@@ -147,7 +147,7 @@ Great, we've identified the algorithms and methods used, discovered a pitfall, a
 </p>
 
 <p>
-    Each pass will encrypt it the 16 byte segment of random data and then will be ran through a XOR function with the next segment.
+    For a verbal description—each pass will XOR the next 16 byte segment with the current 16 byte segment and then it will encrypted with the random data.
 </p>
 
 <br />
