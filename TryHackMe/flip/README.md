@@ -78,7 +78,7 @@ Here we can see we're going to be dealing with `AES encryption`, `padding`, and 
 
 <br />
 
-Next, I'm sure this caught your eye seemingly login credentials for the server!
+Next, I'm sure this is eye catching, seemingly login credentials for the server!
 
 <p align="center">
     <img style="-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));" src="https://github.com/NaomiTesla/ctf-writeups/assets/110672478/c3f874c9-cde4-41cf-937b-46cdaedc1f5c" alt="Fake creds" >
