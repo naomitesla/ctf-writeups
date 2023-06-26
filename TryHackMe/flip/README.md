@@ -260,7 +260,7 @@ We'll be decrementing our `0x62` hex value for 'b' to get our hex value for 'a' 
 
 <br /><br />
 
-<div style="align: center" markdown="1">
+<div style="text-align: center" markdown="1">
     Now, finally, we replace our first hex value ```0x0b``` with our output of ```0x08``` and........
 </div>
 <br />
