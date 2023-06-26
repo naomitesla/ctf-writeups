@@ -42,7 +42,7 @@ It looks like we'll have to connect to the server using `netcat`, at least that'
 
 <br />
 
-So let's connect!
+**So let's connect!**
 
 <p align="center">
     <img style="-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));" src="https://github.com/NaomiTesla/ctf-writeups/assets/110672478/80866bba-457a-472e-bc89-00d79dbbe5fa" alt="First steps">
@@ -58,7 +58,7 @@ Let's refrain from inputting anything yet until the next section c:
 
 <br />
 
-Let's look at the task file we got!
+**Let's look at the task file we got!**
 
 I'll be using neovim but you can use an editor of your choice (or even just `cat` since it's just the source code!)
 
