@@ -19,6 +19,8 @@
 
 <br /><br /><br />
 
+<img width=1000 src="https://user-images.githubusercontent.com/110672478/213883818-2d61fe01-de6b-449a-95c3-c20947fb4d33.gif"  alt="cool line art c:">
+
 ## Initial Info
 
 The info provided isn't very helpful at all, which does make it a bit more fun c:
@@ -273,5 +275,7 @@ We'll be decrementing our `0x62` hex value for 'b' to get our hex value for 'a' 
 <h1 align="center">
     CONGRATULATIONS!
 </h1>
+
+<img width=1000 src="https://user-images.githubusercontent.com/110672478/213883818-2d61fe01-de6b-449a-95c3-c20947fb4d33.gif"  alt="cool line art c:">
 
 <br /><br />
