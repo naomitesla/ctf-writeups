@@ -77,7 +77,7 @@ def captcha_solve(response):
     if n > 0:
         captcha = str(response[n - 8 : n])
         if captcha[0] == "0":
-            captcha = captcha[1 : len(captcha)]
+            captcha = captcha[1 : ]
         solution = eval(captcha)
         return solution
     return 0
